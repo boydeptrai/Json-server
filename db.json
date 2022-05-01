@@ -1,0 +1,312 @@
+{
+  "categories": [
+    {
+      "id": "92b8fb98-0abb-45de-ad9e-5bd4156605aa",
+      "name": "Home",
+      "createdAt": 1651420806517,
+      "updatedAt": 1651420806517
+    },
+    {
+      "id": "c719626d-9102-49a4-a662-cbddc02b5922",
+      "name": "Toys",
+      "createdAt": 1651420806517,
+      "updatedAt": 1651420806517
+    },
+    {
+      "id": "ff7c9c26-9ee7-4efd-a5b2-ed68b2a50e39",
+      "name": "Beauty",
+      "createdAt": 1651420806517,
+      "updatedAt": 1651420806517
+    },
+    {
+      "id": "c80f6a8d-bb8c-437a-99dc-9335d2f2ded3",
+      "name": "Automotive",
+      "createdAt": 1651420806517,
+      "updatedAt": 1651420806518
+    },
+    {
+      "id": "56787966-1585-40be-b68f-0d8aee4b94b7",
+      "name": "Games",
+      "createdAt": 1651420806518,
+      "updatedAt": 1651420806518
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "92b8fb98-0abb-45de-ad9e-5bd4156605aa",
+      "id": "94f8bb51-b2b8-4db5-9f80-02a7d18e80db",
+      "name": "Intelligent Frozen Sausages",
+      "color": "gold",
+      "price": 378,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1651420806518,
+      "updatedAt": 1651420806518,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "92b8fb98-0abb-45de-ad9e-5bd4156605aa",
+      "id": "42fb3d98-1730-41da-8e30-cc979f8bf58b",
+      "name": "Handcrafted Bronze Fish",
+      "color": "magenta",
+      "price": 480,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "92b8fb98-0abb-45de-ad9e-5bd4156605aa",
+      "id": "34855472-612c-4d80-8101-dacbda27a7fc",
+      "name": "Tasty Wooden Chips",
+      "color": "olive",
+      "price": 95,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "92b8fb98-0abb-45de-ad9e-5bd4156605aa",
+      "id": "ea63e056-fef6-4764-881c-daff90c57b2b",
+      "name": "Handmade Fresh Pizza",
+      "color": "maroon",
+      "price": 597,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "92b8fb98-0abb-45de-ad9e-5bd4156605aa",
+      "id": "fc19f184-941e-43c5-baa3-0fd502e20102",
+      "name": "Awesome Metal Hat",
+      "color": "pink",
+      "price": 331,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c719626d-9102-49a4-a662-cbddc02b5922",
+      "id": "d00fe978-c716-4047-bc3c-53f576919e86",
+      "name": "Unbranded Frozen Bacon",
+      "color": "black",
+      "price": 967,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c719626d-9102-49a4-a662-cbddc02b5922",
+      "id": "757b59f9-cc9e-4f06-a939-66b562155bed",
+      "name": "Oriental Granite Computer",
+      "color": "yellow",
+      "price": 994,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c719626d-9102-49a4-a662-cbddc02b5922",
+      "id": "9b7220c5-edca-416f-8ceb-9671fd291656",
+      "name": "Awesome Rubber Salad",
+      "color": "plum",
+      "price": 952,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c719626d-9102-49a4-a662-cbddc02b5922",
+      "id": "277f7f9e-aed4-46ea-a748-a481f31a6467",
+      "name": "Incredible Wooden Chips",
+      "color": "sky blue",
+      "price": 27,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c719626d-9102-49a4-a662-cbddc02b5922",
+      "id": "76702ba2-1c89-432b-9750-1bf85dfde1bb",
+      "name": "Refined Frozen Table",
+      "color": "tan",
+      "price": 264,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1651420806519,
+      "updatedAt": 1651420806519,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "ff7c9c26-9ee7-4efd-a5b2-ed68b2a50e39",
+      "id": "fe94f6d3-7e70-4fc3-9145-08f4cc382ebc",
+      "name": "Recycled Soft Chair",
+      "color": "grey",
+      "price": 897,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "ff7c9c26-9ee7-4efd-a5b2-ed68b2a50e39",
+      "id": "b3be31f9-b2fc-4d8f-871d-2b5b3e7847c9",
+      "name": "Elegant Bronze Table",
+      "color": "lime",
+      "price": 679,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "ff7c9c26-9ee7-4efd-a5b2-ed68b2a50e39",
+      "id": "90b81360-2c21-4dae-acac-e0c02b5a607b",
+      "name": "Intelligent Cotton Computer",
+      "color": "teal",
+      "price": 918,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "ff7c9c26-9ee7-4efd-a5b2-ed68b2a50e39",
+      "id": "6b86d320-4e04-4d07-9989-53bc6892b309",
+      "name": "Fantastic Cotton Sausages",
+      "color": "purple",
+      "price": 579,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "ff7c9c26-9ee7-4efd-a5b2-ed68b2a50e39",
+      "id": "71409329-cf66-45f4-88f0-2800e5e9f52a",
+      "name": "Elegant Cotton Bacon",
+      "color": "turquoise",
+      "price": 109,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c80f6a8d-bb8c-437a-99dc-9335d2f2ded3",
+      "id": "8b02e39b-bd32-44c8-9e71-ba1b5c59332f",
+      "name": "Rustic Fresh Pizza",
+      "color": "cyan",
+      "price": 819,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c80f6a8d-bb8c-437a-99dc-9335d2f2ded3",
+      "id": "34ecc8da-3280-4c64-a3b8-f6c065bbdecc",
+      "name": "Elegant Plastic Bike",
+      "color": "silver",
+      "price": 252,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c80f6a8d-bb8c-437a-99dc-9335d2f2ded3",
+      "id": "0f39d88b-93ad-4f52-90c7-1cb0b9eec920",
+      "name": "Incredible Frozen Shirt",
+      "color": "fuchsia",
+      "price": 801,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c80f6a8d-bb8c-437a-99dc-9335d2f2ded3",
+      "id": "ad183fc2-355e-4864-8763-b4e66b75ccbd",
+      "name": "Generic Steel Pizza",
+      "color": "pink",
+      "price": 882,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "c80f6a8d-bb8c-437a-99dc-9335d2f2ded3",
+      "id": "cbc7dd12-b576-42a0-b932-cb8c9e85c697",
+      "name": "Incredible Bronze Ball",
+      "color": "blue",
+      "price": 771,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "56787966-1585-40be-b68f-0d8aee4b94b7",
+      "id": "c7558eda-9c9f-4f04-a4c7-f1368a025a75",
+      "name": "Incredible Frozen Shoes",
+      "color": "lime",
+      "price": 169,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "56787966-1585-40be-b68f-0d8aee4b94b7",
+      "id": "2879babb-6892-4d8f-ae4e-581faca25faf",
+      "name": "Handcrafted Wooden Table",
+      "color": "magenta",
+      "price": 262,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1651420806520,
+      "updatedAt": 1651420806520,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "56787966-1585-40be-b68f-0d8aee4b94b7",
+      "id": "3076593b-37d6-47aa-a8cd-bbbc46c7af21",
+      "name": "Modern Soft Soap",
+      "color": "cyan",
+      "price": 251,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1651420806521,
+      "updatedAt": 1651420806521,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "56787966-1585-40be-b68f-0d8aee4b94b7",
+      "id": "d325c2e4-608f-4502-8a02-1fe1074c7dbc",
+      "name": "Oriental Wooden Chicken",
+      "color": "purple",
+      "price": 321,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1651420806521,
+      "updatedAt": 1651420806521,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    },
+    {
+      "categoryId": "56787966-1585-40be-b68f-0d8aee4b94b7",
+      "id": "9fa846d2-37b5-442b-b93b-6315d82d5edf",
+      "name": "Recycled Frozen Keyboard",
+      "color": "lime",
+      "price": 568,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1651420806521,
+      "updatedAt": 1651420806521,
+      "thumbnailUrl": "http://loremflickr.com/640/480"
+    }
+  ],
+  "profile": { "name": "Po" }
+}
