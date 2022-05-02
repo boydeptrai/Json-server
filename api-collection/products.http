@@ -21,16 +21,23 @@ POST {{baseUrl}}/{{resourceName}}
 Content-Type: application/json
 
 {
-  "name":"Laptop"
+  "categoryId": "92b8fb98-0abb-45de-ad9e-5bd4156605aa",
+    "name": "Intelligent Frozen Sausages",
+    "color": "gold",
+    "price": 379,
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "thumbnailUrl": "http://loremflickr.com/640/480"
 }
 
 ###
 # @name update
-PATCH  {{baseUrl}}/{{resourceName}}/3
+PATCH  {{baseUrl}}/{{resourceName}}/Q5_304w
 Content-Type: application/json
 
 {
-  "name":"New Laptop"
+    "name": "Intelligent Frozen Sausages update",
+    "color": "red",
+    "price": 379
 }
 ###
 # @name delete
