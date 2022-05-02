@@ -2,7 +2,7 @@ const jsonServer = require('json-server')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
-
+const queryString = require('query-string')
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares)
 
@@ -24,6 +24,30 @@ server.use((req, res, next) => {
   // Continue to JSON Server router
   next()
 })
+router.render = (req,res) =>{
+  //Check GET with pagination
+  // If yes, custom output
+  const headers = res.getHeaders();
+
+  const totalCountHeader = headers['x-total-count'];
+  if(req.method === 'GET' && totalCountHeader){
+    const queryParams = queryString.parse(req._parsedUrl.query);
+    console.log(queryParams);
+
+    const result = {
+      data: res.locals.data,
+      pagination: {
+        _page: Number.parseInt(queryParams._page) || 1,
+        _limit: Number.parseInt(queryParams._limit) || 10,
+        _totalRows: Number.parseInt(totalCountHeader),
+      },
+    }
+    return res.jsonp(result);
+  }
+
+  // Otherwise, keep default behavior
+  res.jsonp(res.locals.data);
+};
 
 // Use default router
 server.use('/api',router)

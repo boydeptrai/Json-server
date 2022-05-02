@@ -8,14 +8,16 @@ GET {{baseUrl}}/{{resourceName}}
 # @name filterProduct
 ###
 GET {{baseUrl}}/{{resourceName}}?price_gte=200
+
 # @name pagination
+###
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=3
+
 ###
 # @name sort
 GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=asc
 
-###
-GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=3
-###
+
 # @name addNew
 POST {{baseUrl}}/{{resourceName}}
 Content-Type: application/json
